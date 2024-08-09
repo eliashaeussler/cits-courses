@@ -9,6 +9,7 @@ This repository contains course materials and exam papers of my
 * Summer 2024
   - [Basics of Cyber & IT security ("Grundlagen der Cyber- & IT-Sicherheit")](GCIT01)
   - [Neural networks & Deep Learning ("Neuronale Netze & Deep Learning")](NNDL91)
+  - [Data modeling and database systems ("Datenmodellierung und Datenbanksysteme")](DADA01)
 
 ## License
 
