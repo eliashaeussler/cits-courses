@@ -11,6 +11,8 @@ This repository contains course materials and exam papers of my
   - [Neural networks & Deep Learning ("Neuronale Netze & Deep Learning")](NNDL91/README.md)
   - [Data modeling and database systems ("Datenmodellierung und Datenbanksysteme")](DADA01/README.md)
   - [Cyber & IT security: Implementation & application ("Cyber- & IT-Security: Implementation & Application")](IMAP01/README.md)
+* Winter 2024/25
+  - [Advanced Research Methods](ADRM01/README.md)
 
 ## License
 
