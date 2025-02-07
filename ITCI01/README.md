@@ -27,7 +27,7 @@ and analyzed the extent to which they are suitable for secure name resolutions.
   - 🖥️ [Exercise](Uebung_2/README.md)
 
 [#iot][1] [#smart-home][2] [#interoperability][3] [#arduino][4]
-[#dns][5] [#doh][6] [#dot][7] [#dnssec][7] [#gns3][9]
+[#dns][5] [#doh][6] [#dot][7] [#dnssec][8] [#gns3][9]
 
 [Tinkercad]: https://www.tinkercad.com/
 [GNS3]: https://www.gns3.com/
