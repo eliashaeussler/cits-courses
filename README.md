@@ -14,6 +14,7 @@ This repository contains course materials and exam papers of my
 * Winter 2024/25
   - [Advanced Research Methods](ADRM01/README.md)
   - [Information technology for Cyber & IT security ("Informationstechnik für Cyber- & IT-Security")](ITCI01/README.md)
+  - [Network Security](NESE01/README.md)
 
 ## License
 
