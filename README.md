@@ -6,16 +6,16 @@ This repository contains course materials and exam papers of my
 
 ## Courses
 
-* Summer 2024
-  - [Basics of Cyber & IT security ("Grundlagen der Cyber- & IT-Sicherheit")](GCIT01/README.md)
-  - [Neural networks & Deep Learning ("Neuronale Netze & Deep Learning")](NNDL91/README.md)
-  - [Data modeling and database systems ("Datenmodellierung und Datenbanksysteme")](DADA01/README.md)
-  - [Cyber & IT security: Implementation & application ("Cyber- & IT-Security: Implementation & Application")](IMAP01/README.md)
-* Winter 2024/25
-  - [Advanced Research Methods](ADRM01/README.md)
-  - [Information technology for Cyber & IT security ("Informationstechnik für Cyber- & IT-Security")](ITCI01/README.md)
-  - [Network Security](NESE01/README.md)
-  - [System Analysis ("Systemanalyse")](SYAL02/README.md)
+* **Winter 2024/25**
+  - ⏳ [Advanced Research Methods](ADRM01/README.md)
+  - ✅ [Information technology for Cyber & IT security ("Informationstechnik für Cyber- & IT-Security")](ITCI01/README.md)
+  - ✅ [Network Security](NESE01/README.md)
+  - ⏳ [System Analysis ("Systemanalyse")](SYAL02/README.md)
+* **Summer 2024**
+  - ✅ [Basics of Cyber & IT security ("Grundlagen der Cyber- & IT-Sicherheit")](GCIT01/README.md)
+  - ✅ [Neural networks & Deep Learning ("Neuronale Netze & Deep Learning")](NNDL91/README.md)
+  - ✅ [Data modeling and database systems ("Datenmodellierung und Datenbanksysteme")](DADA01/README.md)
+  - ✅ [Cyber & IT security: Implementation & application ("Cyber- & IT-Security: Implementation & Application")](IMAP01/README.md)
 
 ## License
 
