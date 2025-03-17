@@ -16,6 +16,7 @@ This repository contains course materials and exam papers of my
   - ✅ [Information technology for Cyber & IT security ("Informationstechnik für Cyber- & IT-Security")](ITCI01/README.md)
   - ✅ [Network Security](NESE01/README.md)
   - ✅ [System Analysis ("Systemanalyse")](SYAL02/README.md)
+  - ⏳ [Cloud Computing & Cloud Security](CCCS02/README.md)
 
 ## License
 
