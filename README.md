@@ -24,5 +24,5 @@ All content in this repository is published as proprietary code.
 If you would like to use any of the files published in this
 repository, please contact me in advance.
 
-[1]: https://dbuas.de/master/cyber-it-security/
+[1]: https://dbuas.de/master/cyber-it-security-master/
 [2]: https://dbuas.de/
