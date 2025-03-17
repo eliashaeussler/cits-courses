@@ -4,10 +4,10 @@ This repository contains course materials and exam papers of my
 [CITS (Cyber & IT security)][1] studies at
 [DBU (Digital Business University of Applied Sciences)][2].
 
+## Courses
+
 > [!NOTE]
 > Most of the documents are published in German 🇩🇪.
-
-## Courses
 
 * **Summer 2024**
   - ✅ [Basics of Cyber & IT security ("Grundlagen der Cyber- & IT-Sicherheit")](GCIT01/README.md)
