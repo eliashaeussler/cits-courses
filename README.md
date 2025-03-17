@@ -4,6 +4,9 @@ This repository contains course materials and exam papers of my
 [CITS (Cyber & IT security)][1] studies at
 [DBU (Digital Business University of Applied Sciences)][2].
 
+> [!NOTE]
+> Most of the documents are published in German 🇩🇪.
+
 ## Courses
 
 * **Summer 2024**
