@@ -24,6 +24,10 @@ This repository contains course materials and exam papers of my
 * ✅ [System Analysis ("Systemanalyse")](SYAL02/README.md)
 * ✅ [Cloud Computing & Cloud Security](CCCS02/README.md)
 
+### Summer 2025
+
+* ✍️ [Cyber Resilience](CYRE01/README.md)
+
 ## License
 
 All content in this repository is published as proprietary code.
