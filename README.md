@@ -26,7 +26,13 @@ This repository contains course materials and exam papers of my
 
 ### Summer 2025
 
-* ✍️ [Cyber Resilience](CYRE01/README.md)
+* ✅ [Cyber Resilience](CYRE01/README.md)
+* ✅ [Introduction to Technical Security ("Einführung in die technische Sicherheit")](EITS92/README.md)
+
+### WInder 2025/26
+
+* ✅ [Cyber & IT forensics ("Cyber- & IT-Forensik")](CITF02/README.md)
+* ✍️ [Development & Operation of technical measures ("Entwicklung & Betrieb technischer Maßnahmen")](EBTM91/README.md)
 
 ## License
 
