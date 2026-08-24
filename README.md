@@ -32,7 +32,7 @@ This repository contains course materials and exam papers of my
 ### WInder 2025/26
 
 * ✅ [Cyber & IT forensics ("Cyber- & IT-Forensik")](CITF02/README.md)
-* ✍️ [Development & Operation of technical measures ("Entwicklung & Betrieb technischer Maßnahmen")](EBTM91/README.md)
+* ✅ [Development & Operation of technical measures ("Entwicklung & Betrieb technischer Maßnahmen")](EBTM91/README.md)
 
 ## License
 
