@@ -9,12 +9,15 @@ This repository contains course materials and exam papers of my
 > [!NOTE]
 > Most of the documents are published in German 🇩🇪.
 
-### Summer 2024
+### Winter 2025/26
 
-* ✅ [Basics of Cyber & IT security ("Grundlagen der Cyber- & IT-Sicherheit")](GCIT01/README.md)
-* ✅ [Neural networks & Deep Learning ("Neuronale Netze & Deep Learning")](NNDL91/README.md)
-* ✅ [Data modeling and database systems ("Datenmodellierung und Datenbanksysteme")](DADA01/README.md)
-* ✅ [Cyber & IT security: Implementation & application ("Cyber- & IT-Security: Implementation & Application")](IMAP01/README.md)
+* ✅ [Cyber & IT forensics ("Cyber- & IT-Forensik")](CITF02/README.md)
+* ✅ [Development & Operation of technical measures ("Entwicklung & Betrieb technischer Maßnahmen")](EBTM91/README.md)
+
+### Summer 2025
+
+* ✅ [Cyber Resilience](CYRE01/README.md)
+* ✅ [Introduction to Technical Security ("Einführung in die technische Sicherheit")](EITS92/README.md)
 
 ### Winter 2024/25
 
@@ -24,15 +27,12 @@ This repository contains course materials and exam papers of my
 * ✅ [System Analysis ("Systemanalyse")](SYAL02/README.md)
 * ✅ [Cloud Computing & Cloud Security](CCCS02/README.md)
 
-### Summer 2025
+### Summer 2024
 
-* ✅ [Cyber Resilience](CYRE01/README.md)
-* ✅ [Introduction to Technical Security ("Einführung in die technische Sicherheit")](EITS92/README.md)
-
-### Winter 2025/26
-
-* ✅ [Cyber & IT forensics ("Cyber- & IT-Forensik")](CITF02/README.md)
-* ✅ [Development & Operation of technical measures ("Entwicklung & Betrieb technischer Maßnahmen")](EBTM91/README.md)
+* ✅ [Basics of Cyber & IT security ("Grundlagen der Cyber- & IT-Sicherheit")](GCIT01/README.md)
+* ✅ [Neural networks & Deep Learning ("Neuronale Netze & Deep Learning")](NNDL91/README.md)
+* ✅ [Data modeling and database systems ("Datenmodellierung und Datenbanksysteme")](DADA01/README.md)
+* ✅ [Cyber & IT security: Implementation & application ("Cyber- & IT-Security: Implementation & Application")](IMAP01/README.md)
 
 ## License
 
