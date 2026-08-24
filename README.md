@@ -9,6 +9,10 @@ This repository contains course materials and exam papers of my
 > [!NOTE]
 > Most of the documents are published in German 🇩🇪.
 
+### Summer 2026
+
+* ✍️ [Master thesis](MAST01/README.md)
+
 ### Winter 2025/26
 
 * ✅ [Cyber & IT forensics ("Cyber- & IT-Forensik")](CITF02/README.md)
