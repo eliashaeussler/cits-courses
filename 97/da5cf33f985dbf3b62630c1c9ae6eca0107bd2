@@ -1,0 +1,16 @@
+README.md
+  h_a1c258d8beeba3 12-15
+MAST01/README.md
+  h_a1c258d8beeba3 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "97da5cf33f985dbf3b62630c1c9ae6eca0107bd2",
+  "prompts": {},
+  "humans": {
+    "h_a1c258d8beeba3": {
+      "author": "Elias Häußler <elias@haeussler.dev>"
+    }
+  }
+}
